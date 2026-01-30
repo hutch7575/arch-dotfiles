@@ -1,2 +1,2 @@
-# CachyOS-dotfiles
-My CachyOS Dotfiles - !TBA!
+# Arch-dotfiles
+My Arch Linux Dotfiles - !TBA!

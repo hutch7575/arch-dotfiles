@@ -1,2 +1,2 @@
-# Arch-dotfiles
+# arch-dotfiles
 My Arch Linux Dotfiles - !TBA!

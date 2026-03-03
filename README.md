@@ -1,16 +1,10 @@
-# arch-dotfiles
-My Arch Linux Dotfiles - !TBA!
+<h1>arch-dotfiles</h1>
 
-
-
-WM/Compositor: Niri (Wayland)
-
-Bars/Widgets: Waybar / Quickshell
-
-Terminal: Alacritty
-
-Shell: Fish
-
-Prompt: Starship
-
-Scripts/Tools: wallpaper picker
+<ul>
+  <li><strong>WM / Compositor:</strong> Niri (Wayland)</li>
+  <li><strong>Bars / Widgets:</strong> Waybar / Quickshell</li>
+  <li><strong>Terminal:</strong> Alacritty</li>
+  <li><strong>Shell:</strong> Fish</li>
+  <li><strong>Prompt:</strong> Starship</li>
+  <li><strong>Scripts / Tools:</strong> Wallpaper picker</li>
+</ul>
